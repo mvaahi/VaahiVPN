@@ -1,7 +1,6 @@
 {
 "ovpn_file":[
-  {"id":0,"file":"
-client
+  {"id":0,"file":"client
 dev tun
 proto tcp
 remote 172.86.68.217 1194
